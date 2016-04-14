@@ -183,3 +183,9 @@ qemu.hw.mainkeys=0
 
 # Support FRP features (enable bootloader unlock etc.)
 ro.frp.pst=/dev/block/platform/msm_sdcc.1/by-name/frp
+
+# On Screen buttons
+qemu.hw.mainkeys=1
+
+# MultiUsers
+fw.max_users=1
