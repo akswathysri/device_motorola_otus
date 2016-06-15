@@ -185,6 +185,9 @@ PRODUCT_PACKAGES += \
     libQWiFiSoftApCfg \
     libqsap_sdk
 
+PRODUCT_PACKAGES += /
+    OTAUpdates
+
 # Doze
 #PRODUCT_PACKAGES += \
 #    MotoDoze
